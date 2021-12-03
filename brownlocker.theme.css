@@ -1,0 +1,23 @@
+/**
+* @name BrownLocker 0.1
+* @version 0.1
+* @description Based on a sloth gradient kind | v0.1 | Next 100 sub pack, help me get there by subing (channel on website button)
+* @author Spectra
+* @invite uEMFYVtZNc
+* @Source 
+* @website https://www.youtube.com/channel/UCKzrKMFOjmHAhBvIWjIcChg
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--mainColor: #79460AFF;
+--backgroundColor01: #1e2731;
+--backgroundColor02: #12171d;
+--gradientColor01: #936D06FF;
+--gradientColor02: #482803FF;
+--HSL-server-icon-size: 36px;
+--HSL-server-spacing: 15px;
+--customFont: 'Quicksand';
+}
